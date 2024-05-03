@@ -27,7 +27,7 @@ Esta função aplica a máscara (## # #### ####) ao número de WhatsApp fornecid
 Os ouvintes de eventos são adicionados para lidar com eventos de entrada para os campos de CPF, nome e WhatsApp.
 
 ## Uso
-Na paltaforma da Unbouce selecione a opção "Before body End Tag" e insira o código.
+Na plataforma da Unbouce selecione a opção "Before body End Tag" e insira o código.
 
 Inclua este script no seu arquivo HTML para habilitar a máscara de CPF, validação, formatação de nome e máscara de número de WhatsApp com DDD.
 
